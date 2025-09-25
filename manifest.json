@@ -1,0 +1,25 @@
+{
+  "short_name": "Azka's Portfolio",
+  "name": "Portfolio of Azka, a Software Engineer specializing in React, Laravel, and full-stack web development projects.",
+  "icons": [
+    {
+      "src": "icon_porto_new.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icon_porto_new.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon_porto_new.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
